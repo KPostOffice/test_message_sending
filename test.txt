@@ -1,3 +1,5 @@
 hello world
 
 text 2
+
+bar2
